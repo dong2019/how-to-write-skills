@@ -1,0 +1,17 @@
+{
+  "skill_name": "your-skill-name",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "请在这里填写一条真实用户提示词。",
+      "expected_output": "描述期望结果，不要求写成断言。",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "请在这里填写第二条测试提示词。",
+      "expected_output": "描述这个用例主要想验证什么。",
+      "files": []
+    }
+  ]
+}

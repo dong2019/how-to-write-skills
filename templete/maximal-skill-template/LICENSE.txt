@@ -1,0 +1,2 @@
+Replace this file with the actual license text if the Skill will be distributed.
+If you do not need a license file yet, you can delete this file.
